@@ -51,7 +51,8 @@ If you find this repository helpful, please consider giving it a ⭐.
 
 ## 🛠️ Installation
 
-### 1) Clone
-```bash
-git clone https://github.com/abdbdb/SMWG-DETR.git
-cd SMWG-DETR
+This project is developed based on **MMDetection 3.3**.  
+Please install **MMDetection v3.3** (with corresponding MMEngine/MMCV) first.
+
+After installing `mmdet==3.3.x`, clone this repository and start training/testing.
+
